@@ -1,0 +1,58 @@
+*
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+body
+{
+    /* background-color: rgba(0, 0, 0, 0.5); */
+    height: 85vh;
+    background: linear-gradient(rgba(0, 0, 0, 0.50), rgba(0, 0, 0, 0.50)), url(../public/pexels-oleksandr-canary-islands-12969414.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
+}
+.box
+{
+    width: 50%;
+    margin: auto;
+    margin-top: 100px;
+    /* border: 2px solid red; */
+    padding: 10px;
+}
+h1
+{
+    width: 70%;
+    text-align: center;
+    color: red;
+    background-color: white;
+    font-size: 45px;
+    margin: auto;
+    padding: 10px;
+    border-radius: 10px;
+}
+p
+{
+    color: white;
+    background-color: rgba(0, 0, 0, 0.50);
+    width: 500px;
+    height: 180px;
+    margin: auto;
+    margin-top: 40px;
+    font-size: 20px;
+    padding: 20px;
+    border-radius: 10px;
+    /* border: 2px solid green; */
+    outline: 5px inset yellow;
+}
+button
+{
+    cursor: pointer;
+    color: white;
+    background-color: chocolate;
+    font-size: 20px;
+    margin: 50px 0 20px 300px;
+    padding: 15px 30px;
+    border-radius: 10px;
+    border: none;
+}
