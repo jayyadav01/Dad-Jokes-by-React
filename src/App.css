@@ -4,13 +4,11 @@
 }
 body
 {
-    /* background-color: rgba(0, 0, 0, 0.5); */
-    height: 85vh;
+    height: 503px;
     background: linear-gradient(rgba(0, 0, 0, 0.50), rgba(0, 0, 0, 0.50)), url(../public/pexels-oleksandr-canary-islands-12969414.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-
 }
 .box
 {
